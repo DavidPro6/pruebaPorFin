@@ -15,7 +15,7 @@ Durante este curso, contamos con una nueva y excepcionalmente amplia remesa de B
 
 Tenemos la seguridad de que su dedicación y creatividad nos permitirán seguir avanzando con energía renovada, consolidando la misión de OfiLibre como un espacio de formación y crecimiento en el ámbito de la cultura libre.
 
-![](20241127retratos_de_becarios_ofilibre0005_horizontal_corta_03bis.jpg)
+![](20241127retratos_de_becarios_ofilibre0005_horizontal_corta_03bis.jpg "Becarios")
 
 **¡Os damos la bienvenida al equipo!** Estamos deseando ver todas las ideas y proyectos que desarrollaremos en conjunto en los próximos meses.  
 
