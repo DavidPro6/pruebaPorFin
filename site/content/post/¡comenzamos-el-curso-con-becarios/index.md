@@ -1,6 +1,6 @@
 ---
 title: ¡Comenzamos el curso con becarios!
-date: 2024-11-29T09:36:54.085Z
+date: 2024-12-02T10:56:23.026Z
 description: Introducción
 image: imagen-del-meme-im-just-a-chill-guy.jpg
 ---
