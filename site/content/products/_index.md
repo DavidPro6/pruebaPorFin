@@ -85,13 +85,6 @@ pricing:
         - Green or roasted beans
         - Unlimited varieties
       plan: Custom
-<<<<<<< HEAD
-      price: '?'
-  new_section:
-    text: "New Section Text"
-    video: ""
-    article: ""
-=======
       price: "?"
 new_section:
   text: Hola me llamo Juan
@@ -109,5 +102,4 @@ new_section:
 
     AFAJHFJASGFHUABGJGIU
 type: products
->>>>>>> 5c6246fd06f6cdce9be3198c1c912e68dafa6ab1
 ---
