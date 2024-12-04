@@ -12,4 +12,18 @@
       {{ .Content }}
     </div>
   </div>
+
+  <!-- New Section -->
+  <div class="mw6 center ph3 pv4">
+    <h2>{{ .Params.new_section.text }}</h2>
+    {{ with .Params.new_section.video }}
+      <video controls>
+        <source src="{{ . }}" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    {{ end }}
+    <div class="article-content">
+      {{ .Params.new_section.article | markdownify }}
+    </div>
+  </div>
 {{ end }}
