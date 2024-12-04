@@ -91,6 +91,10 @@ pricing:
         - Unlimited varieties
       plan: Custom
       price: '?'
+  new_section:
+    text: "New Section Text"
+    video: ""
+    article: ""
 ---
 
 
